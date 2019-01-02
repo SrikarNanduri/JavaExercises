@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Asure/NewOrg/cs-event-service" value="PREVIEW" />
+        <entry key="D:/Asure/Project/gateway-service" value="PREVIEW" />
+        <entry key="D:/Asure/Project/user-service" value="PREVIEW" />
+        <entry key="D:/Asure/cargo-security-mission-service-master-9380806ce327def99c9c2ec5a6153c08adc41d71" value="PREVIEW" />
+        <entry key="D:/Asure/cargo-security-mission-service-master-aac1bfee592406b9950254016dca79e84095ff33" value="PREVIEW" />
+        <entry key="D:/Asure/device-message-api-master-01a1852d69805be21a4bafccd18d9320c9530351" value="PREVIEW" />
+        <entry key="D:/Asure/rm-security-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Complete/envotech" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Spring/envotech-parser/envotech-parser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Test/device-access-master-4e892d5da1bb22cd2fd54280fd264b2dfbed8060" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Test/device-message-api-master-a54c153bec11ad65e27e62abaae92a3d708ddf4f" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Test/envotech-parser" value="PREVIEW" />
+        <entry key="D:/Kotlin/tutorial codes/playerscore-master/step1/playerscore" value="PREVIEW" />
+        <entry key="D:/Kotlin/tutorial codes/playerscore-master/step2/playerscore" value="PREVIEW" />
+        <entry key="D:/Kotlin/tutorial codes/playerscore-master/step3/playerscore" value="PREVIEW" />
+        <entry key="D:/Kotlin/tutorial codes/playerscore-master/step4/playerscore" value="PREVIEW" />
+        <entry key="D:/device-message-api-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1667" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
