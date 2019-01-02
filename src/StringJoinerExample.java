@@ -37,5 +37,22 @@ public class StringJoinerExample {
         System.out.println(theCaseResult);
         // This will print something like this [Alpha], [Beta], [Gamma]. We can play around woth stringJoiner more for cases like this.
 
+
+        //What if there is an empty string. Consider a case where we didn't add any value after we specify the sarting an ending along with the separator
+        StringJoiner stringJoinerEmpty = new StringJoiner(", ", "{", "}");
+        String theEmptyResult = stringJoinerEmpty.toString();
+        System.out.println(theEmptyResult);
+        //This will return an empty string with just start and end values in our case it will be {}
+        //What if we want to customize it and return a separate string when its empty that is when there is no add() called. We can use setEmptyValue
+        StringJoiner stringJoinerEmpty2 = new StringJoiner(", ", "{", "}");
+        stringJoinerEmpty2.setEmptyValue("EMPTY");
+        //stringJoinerEmpty2.add("Alpha");
+        String theEmptyResult2 = stringJoinerEmpty2.toString();
+        System.out.println(theEmptyResult2);
+        //This will print EMPTY as there is no value added. Uncomment the add() call and you will see that It wont print EMPTY.
+
+        //What if we do call add() but with an empty string like add("") it will still return empty as we did call add(). So the thing to understand  is that if add is called the setEmptyValue will not be
+        //called. So if you add an empty value inside add() then it will return the empty value not the EMPTY. Remember that.
+
     }
 }
